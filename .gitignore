@@ -1,6 +1,5 @@
 data/**
-checkpoints/**
-.dmypy.json
+dmypy.json
 *tensorboard*
 *.zip
 *.dat
